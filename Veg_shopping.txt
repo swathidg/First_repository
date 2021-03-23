@@ -7,3 +7,6 @@ Beans
 Onions
 Tomatoes
 Green chillies
+Raddish
+Greenleaf vegetables
+Mushrooms
