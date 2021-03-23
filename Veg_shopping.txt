@@ -7,4 +7,3 @@ Beans
 Onions
 Tomatoes
 Green chillies
-apple
