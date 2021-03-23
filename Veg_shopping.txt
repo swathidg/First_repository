@@ -5,3 +5,6 @@ Carrots
 Cucumber
 Beans
 Onions
+Tomatoes
+Green chillies
+apple
